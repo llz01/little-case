@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+.head {
+	background-color: #e66c06;
+	height: 132px;
+	width: 100%;
+	text-align: center;
+}
+.title{
+	font-size: 54px;
+	color: #ffffff;
+	width: auto;
+	height: 55px;
+}
+#more{
+	float: right;
+	height: 55px;
+	width: 55px;
+}
+#back{
+	float: left;
+	height: 55px;
+	width: 55px;
+}
+#content{
+	margin-bottom: 44px;
+	height: auto;
+	padding: 46px;
+}
+#register{
+	height: 110px;
+	width: 100%;
+	font-size: 56px;
+	color: #ffffff;
+	background-color: #e66c06;
+	margin-top: 215px;
+}
+#footer{
+	position: fixed;
+	bottom: 0px;
+	height: 146px;
+	background-color: #e66c06;
+	width: 100%
+}
+a{
+	text-decoration: none;
+	font-size: 26px;
+}
+input{
+	height: 44px;
+	font-size: 45px;
+	border-bottom: solid #a1a1a1;
+	border-right: none;
+	border-left: none;
+	border-top: none;
+}
+.fontColor{
+	color: #a1a1a1;
+}
+.inline{
+	margin-top: 20px;
+	clear: both;
+	display: flex;
+}
+	
